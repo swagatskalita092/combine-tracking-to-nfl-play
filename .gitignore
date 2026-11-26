@@ -1,0 +1,18 @@
+# Competition data is CC BY-NC 4.0 and must not be redistributed. Never commit it.
+*.csv.gz
+data/
+nfl-big-data-bowl-2027/
+game_tracking_*.csv
+combine_tracking.csv
+combine_results.csv
+player_play.csv
+players.csv
+games.csv
+player_career_successes.csv
+# player-level intermediates written by the scripts
+forty_run_features.csv
+wr_rep_features.csv
+wr_break_reps_z.csv
+wr_player_break_features.csv
+ingame_speed*.csv
+__pycache__/
