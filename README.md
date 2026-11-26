@@ -18,6 +18,7 @@ Code, decision-rule notes and aggregate results for my entry in the **NFL Big Da
 |---|---|
 | `notebook/` | The Kaggle notebook (no outputs), built from the scripts by `scripts/15_build_notebook.py` |
 | `scripts/` | Analysis scripts in run order (00-18) |
+| `writeup/` | The final Kaggle Writeup text (markdown) |
 | `notes/` | Dated notes: data map, decision rules written before each analysis (05, 07), results, reviews and responses (10-13). These are self-recorded, not registered with a third party |
 | `results/` | Aggregate result tables only (no player-level rows) |
 | `figures/` | The four Writeup figures |
